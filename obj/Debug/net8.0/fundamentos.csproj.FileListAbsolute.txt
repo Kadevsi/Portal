@@ -1,0 +1,14 @@
+C:\Users\rkieh\Documents\Kinal\Fundamentos\bin\Debug\net8.0\fundamentos.exe
+C:\Users\rkieh\Documents\Kinal\Fundamentos\bin\Debug\net8.0\fundamentos.deps.json
+C:\Users\rkieh\Documents\Kinal\Fundamentos\bin\Debug\net8.0\fundamentos.runtimeconfig.json
+C:\Users\rkieh\Documents\Kinal\Fundamentos\bin\Debug\net8.0\fundamentos.dll
+C:\Users\rkieh\Documents\Kinal\Fundamentos\bin\Debug\net8.0\fundamentos.pdb
+C:\Users\rkieh\Documents\Kinal\Fundamentos\obj\Debug\net8.0\fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rkieh\Documents\Kinal\Fundamentos\obj\Debug\net8.0\fundamentos.AssemblyInfoInputs.cache
+C:\Users\rkieh\Documents\Kinal\Fundamentos\obj\Debug\net8.0\fundamentos.AssemblyInfo.cs
+C:\Users\rkieh\Documents\Kinal\Fundamentos\obj\Debug\net8.0\fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\rkieh\Documents\Kinal\Fundamentos\obj\Debug\net8.0\fundamentos.dll
+C:\Users\rkieh\Documents\Kinal\Fundamentos\obj\Debug\net8.0\refint\fundamentos.dll
+C:\Users\rkieh\Documents\Kinal\Fundamentos\obj\Debug\net8.0\fundamentos.pdb
+C:\Users\rkieh\Documents\Kinal\Fundamentos\obj\Debug\net8.0\fundamentos.genruntimeconfig.cache
+C:\Users\rkieh\Documents\Kinal\Fundamentos\obj\Debug\net8.0\ref\fundamentos.dll
